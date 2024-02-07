@@ -30,10 +30,7 @@ const Home = () => {
             voluptate cumque quos, ex tempora necessitatibus voluptatem non
             voluptatum voluptatibus quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Quia, ullam repellat earum iste rerum quidem, consequuntur odit quisquam exercitationem quod nisi harum distinctio.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique distinctio quos iste, natus cumque libero 
-            corrupti qui beatae atque labore nisi voluptates illo maxime expedita voluptatibus laudantium eum numquam 
-            voluptatum! Voluptatibus itaque voluptate iure dolorem velit doloribus totam alias odit sit est at molestias 
-            laboriosam nostrum, ad autem ab cumque eum suscipit accusantium vel ea molestiae?
+            
 
           </p>
         </div>
